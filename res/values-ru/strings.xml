@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM-станция</string>
+    <string name="action_settings">Настройка</string>
+    <string name="mhz">МГц</string>
+    <string name="back">Назад</string>
+    <string name="help">Помощь</string>
+    <string name="close">Закрыть</string>
+    <string name="open">Открыть</string>
+    <string name="show_channel">100.0</string>
+    <string name="transmission_frequency">Частота</string>
+    <string name="open_fail">Не удалось открыть</string>
+    <string name="tip_welcome">"Вас приветствует FM-станция! Нажмите на кнопку Открыть  и выберите нужную Вам FM-частоту для воспроизведения аудио"</string>
+    <string name="tip_open">Вход в FM-станцию осуществлен. Частота %.1f МГц. Настройте желаемую FM-частоту для воспроизведения звука</string>
+    <string name="tip_close">FM-станция закрыта</string>
+    <string name="tip_adjust">Частота FM-диапазона %.1f мегагерц</string>
+    <string name="tip_fail">Ошибка! FM-станция не открывается</string>
+    <string name="ok">Ок</string>
+    <string name="help_title">Помощь</string>
+</resources>
