@@ -5,7 +5,7 @@
     <string name="mhz">МГц</string>
     <string name="back">Назад</string>
     <string name="help">Помощь</string>
-    <string name="close">Выключит</string>
+    <string name="close">Выключить</string>
     <string name="open">Включить</string>
     <string name="show_channel">100.0</string>
     <string name="transmission_frequency">Частота</string>
